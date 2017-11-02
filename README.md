@@ -29,10 +29,10 @@
 ## ReadMe
 - Your readme should include the following information:
   - Your link to your Azure deployed link
-	- How long did it take you to complete this assignment?
-	- What did you struggle with? Why? How did you solve?
-	- What did you learn during this assignment?
-    - What resources did you utilize for this assingment?
+  - How long did it take you to complete this assignment?
+  - What did you struggle with? Why? How did you solve?
+  - What did you learn during this assignment?
+  - What resources did you utilize for this assingment?
 
 ## Rubric
 - 2pts: Additional resources is added with all required actions/behavior
