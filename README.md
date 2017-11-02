@@ -24,7 +24,7 @@
 - Use Postman to test your API.
 - Deploy your application to Azure
 
-**NOTE:** During our demo, I had put our Get tasks call in our model. I have updated the demo code accordingly, we will keep the database call in our Controller for this lab. it is possible to have this call in our model, except it takes a littel bit more *advanced* work then what we have covered so far this week. Keep database ("_context") calls to the controller. 
+**NOTE:** During our demo, I had put our GetTasks() call in our ListTasks model. I have updated the demo code accordingly, we will keep the database call in our Controller for this lab. it is possible to have this call in our model, except it takes a littel bit more work then what we have covered so far in the course. Traditionally it is recomended to keep these calls in the Controller. Keep database ("_context") calls to the controller. 
 
 ## ReadMe
 - Your readme should include the following information:
